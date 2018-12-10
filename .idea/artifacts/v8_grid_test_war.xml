@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="v8-grid-test:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>v8-grid-test</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="v8-grid-test-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="v8-grid-test:war exploded" />
+    </root>
+  </artifact>
+</component>
